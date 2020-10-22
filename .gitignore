@@ -1,0 +1,6 @@
+__pycache__/
+*.txt
+*.png
+virtualenv/
+!requirements.txt
+.idea/
