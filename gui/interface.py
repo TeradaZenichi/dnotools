@@ -3,11 +3,11 @@
 
 from PIL import Image, ImageTk
 from gui import tools
+from data import config
 import tkinter as tk
 import tkinter.filedialog as fd
 import pandas as pd
 import sys
-import config
 
 
 class startpage(tk.Frame):
