@@ -1,0 +1,4 @@
+num,name,level,type,v,ang,pg,qg,pd,qd,baseKV,Bsh,Gsh
+1,Bus 1,HV,SL,1.05,0,0,0,0,0,1,0,0
+2,Bus 2,HV,PV,1.03,0,20,0,50,20,1,0,0
+3,Bus 3,HV,PQ,1,0,0,0,60,25,1,0,0
